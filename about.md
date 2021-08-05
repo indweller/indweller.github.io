@@ -1,4 +1,4 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I'm Prashanth Ravichandar. I'm working as developer at Morgan Stanley. I did my B.Tech from Indian Institute of Technology Guwahati in Engineering Physics, with a minor in Computer Science and Engineering. To know more visit my [LinkedIn Profile](https://www.linkedin.com/in/prashanth-ravichandar-b9498a130/). 
 
