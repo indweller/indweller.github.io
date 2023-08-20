@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Prashanth Ravichandar's website"
-logo                     : "/images/pr-logo.png"
+logo                     : "/assets/images/pr-logo.png"
 title_separator          : "-"
 name                     : &name "Prashanth Ravichandar"
 description              : &description "Digital home of Prashanth Ravichandar"
