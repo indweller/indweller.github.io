@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Prashanth Ravichandar's website"
+logo                     : "pr-logo.png"
 title_separator          : "-"
 name                     : &name "Prashanth Ravichandar"
 description              : &description "Digital home of Prashanth Ravichandar"
@@ -75,7 +76,7 @@ author:
 
 
 # Site Settings
-teaser                   : "pr-logo.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
