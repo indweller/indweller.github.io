@@ -8,7 +8,6 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Prashanth Ravichandar's website"
-logo                     : "/assets/images/pr-logo.png"
 title_separator          : "-"
 name                     : &name "Prashanth Ravichandar"
 description              : &description "Digital home of Prashanth Ravichandar"
@@ -16,6 +15,7 @@ url                      : https://indweller.github.io # the base hostname & pro
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "indweller/indweller.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+logo                     : "pr-logo.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
