@@ -14,6 +14,8 @@ Prior to joining USC, I worked as a Software Developer at Morgan Stanley.
 
 I received my B.Tech in Engineering Physics with a minor in Computer Science and Engineering at IIT Guwahati.
 
+I am applying to PhD programs for Fall 2024. I am also looking for internship opportunities for Summer 2024.
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
