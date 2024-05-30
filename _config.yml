@@ -8,12 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Prashanth Ravichandar's website"
-title                    : "Prashanth Ravichandar's website"
+title                    : "Prashanth Ravichandar"
 title_separator          : "-"
-name                     : &name "Prashanth Ravichandar"
-description              : &description "Digital home of Prashanth Ravichandar"
-url                      : https://indweller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 name                     : &name "Prashanth Ravichandar"
 description              : &description "Digital home of Prashanth Ravichandar"
 url                      : https://indweller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -25,10 +21,10 @@ repository               : "indweller/indweller.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "prashanth.png"
+  avatar           : "prashanth.jpg"
   name             : "Prashanth Ravichandar"
   pronouns         : # example: "she/her"  
-  bio              : "MS CS at University of Southern California"
+  bio              : ""
   location         : "Los Angeles, California"
   employer         : 
   uri              : # URL
@@ -52,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
