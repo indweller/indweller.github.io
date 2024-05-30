@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: ""
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +9,15 @@ redirect_from:
   - /about.html
 ---
 
+I am a Master's student studying Computer Science at the University of Southern California. My research interests are applying deep learning and reinforcement learning methods to robotic tasks.
+
+Prior to joining USC, I worked as a Software Developer at Morgan Stanley. 
+
+I received my B.Tech in Engineering Physics with a minor in Computer Science and Engineering at IIT Guwahati.
+
+I am applying to PhD programs for Fall 2024. I am also looking for internship opportunities for Summer 2024.
+
+<!-- A data-driven personal website
 I am a Master's student studying Computer Science at the University of Southern California. My research interests are applying deep learning and reinforcement learning methods to robotic tasks.
 
 Prior to joining USC, I worked as a Software Developer at Morgan Stanley. 
