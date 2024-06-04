@@ -9,13 +9,15 @@ redirect_from:
   - /about.html
 ---
 
-I received my MS in Computer Science from the University of Southern California (USC). My research interests are applying data driven methods to solve robotic tasks.
+I hold an MS in Computer Science from the [University of Southern California (USC)](https://www.cs.usc.edu/). Before my time at USC, I worked as a Software Developer at Morgan Stanley. I graduated from the [Indian Institute of Technology (IIT) Guwahati](https://www.iitg.ac.in/) with a B.Tech in Engineering Physics and a minor in Computer Science and Engineering.
 
-Prior to joining USC, I worked as a Software Developer at Morgan Stanley. 
+**I am currently looking for research positions in robotics.**
 
-I received my B.Tech in Engineering Physics with a minor in Computer Science and Engineering at IIT Guwahati.
+## Research interests
 
-I am looking for research positions at the intersection of robotics and reinforcment learning.
+I am primarily interested in exploring data-driven approaches to solve challenges in robotics. Classical control theory offers safety and interpretability and is grounded in real-world abstractions. On the other hand, learning-based methods are powerful function approximators and are a viable alternative when analytical solutions are infeasible due to complexity or computational intractability. I wish to combine these approaches to build efficient, safe, and robust algorithms for robotic control, targeted toward the agile locomotion of legged robots. 
+
+Motivated by the broad applications of manipulation, another direction that I'm interested in is representation learning and planning for dexterous manipulation in contact-rich environments. I'm eager to explore how we can simplify planning by learning task-specific representations, targeted towards applications in medicine and agriculture. In all my endeavors, I aim to incorporate first principles-based inductive biases across the entire computational framework, from representation to controls.
 
 <!-- A data-driven personal website
 ======
