@@ -21,7 +21,7 @@ repository               : "indweller/indweller.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "prashanth.jpg"
+  avatar           : "prashanth.png"
   name             : "Prashanth Ravichandar"
   pronouns         : # example: "she/her"  
   bio              : ""
