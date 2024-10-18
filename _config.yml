@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: Prashanth Ravichandar
-logo: /assets/img/prashanth.png
+logo: /assets/prashanth.png
 show_downloads: false
 github:
   is_project_page: false
