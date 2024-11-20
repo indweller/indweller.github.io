@@ -10,16 +10,14 @@ I hold an MS in Computer Science from the [University of Southern California (US
 **Prashanth Ravichandar**, Lokesh Krishna, Nikhil Sobanbabu, Quan Nguyen
 Submitted to **ICRA 2025** | [arXiv](https://arxiv.org/abs/2410.01030) | [video](https://www.youtube.com/watch?v=gfDaRqobheg)
 
-<iframe width="500" 
-        height="300" 
-        src="https://www.youtube.com/embed/gfDaRqobheg?si=DnGhHOOc0Gdd0Lyp" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        referrerpolicy="strict-origin-when-cross-origin" 
-        allowfullscreen>
-</iframe>
-
+<div style="position: relative; width: 100%; padding-top: 56.25%; overflow: hidden; border-radius: 10px;">
+  <iframe 
+    src="https://www.youtube.com/embed/gfDaRqobheg?si=DnGhHOOc0Gdd0Lyp"
+    allow="autoplay; encrypted-media; web-share" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
+    allowfullscreen>
+  </iframe>
+</div>
 
 * * *
 
