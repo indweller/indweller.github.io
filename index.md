@@ -8,7 +8,7 @@ I hold an MS in Computer Science from the [University of Southern California (US
 
 ### Dynamic Bipedal Loco-manipulation using Oracle Guided Multi-mode Policies with Mode-transition Preference
 **Prashanth Ravichandar**, Lokesh Krishna, Nikhil Sobanbabu, Quan Nguyen
-Submitted to **ICRA 2025** | [arXiv](https://arxiv.org/abs/2410.01030) | [video](https://www.youtube.com/watch?v=gfDaRqobheg)
+Submitted to **ICRA 2025** | [arXiv](https://arxiv.org/abs/2410.01030) | [website](https://indweller.github.io/ogmplm/)
 
 <iframe width="500" 
         height="300" 
