@@ -1,0 +1,12 @@
+body {
+    color: #555353;
+}
+
+a {
+    color: #025ab1;
+}
+
+a:hover {
+    font-weight: inherit !important;
+    color: #033668;
+}
