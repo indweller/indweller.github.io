@@ -6,13 +6,13 @@ I hold an MS in Computer Science from the [University of Southern California (US
 
 ## Publications
 
-### Dynamic Bipedal Loco-manipulation using Oracle Guided Multi-mode Policies with Mode-transition Preference
-**Prashanth Ravichandar**, Lokesh Krishna, Nikhil Sobanbabu, Quan Nguyen
+### Preferenced Oracle Guided Multi-mode Policies for Dynamic Bipedal Loco-Manipulation
+**Prashanth Ravichandar\***, Lokesh Krishna\*, Nikhil Sobanbabu, Quan Nguyen
 Under Review at **IROS 2025** | [<i class=".btn fab fa fa-globe icon-pad-right" aria-hidden="true"></i> Website](https://indweller.github.io/ogmplm/) | [<i class=".btn fab fa fa-file icon-pad-right" aria-hidden="true"></i> arXiv](https://arxiv.org/abs/2410.01030) | [<i class=".btn fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i> GitHub](https://github.com/DRCL-USC/ogmp_isaac)
 
 <div style="position: relative; width: 100%; padding-top: 56.25%; margin-bottom: 10px; overflow: hidden; border-radius: 10px;">
   <iframe 
-    src="https://www.youtube.com/embed/gfDaRqobheg?si=DnGhHOOc0Gdd0Lyp"
+    src="https://www.youtube.com/embed/EXHzOdKcCW4?si=q-lkvNmniJXY7Wi7"
     allow="autoplay; encrypted-media; web-share" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
     allowfullscreen>
