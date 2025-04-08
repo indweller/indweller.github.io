@@ -10,3 +10,13 @@ a:hover {
     font-weight: inherit !important;
     color: #033668;
 }
+
+.mycontent {
+    width: 60%;
+}
+
+@media (max-width: 820px) {
+    .mycontent {
+        width: 100%;
+    }
+}
