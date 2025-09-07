@@ -1,6 +1,4 @@
-I hold an MS in Computer Science from the [University of Southern California (USC)](https://www.cs.usc.edu/). Before joining USC, I worked as a Software Developer at Morgan Stanley for two years. I graduated from the [Indian Institute of Technology (IIT) Guwahati](https://www.iitg.ac.in/) with a B.Tech in Engineering Physics and a minor in Computer Science and Engineering.
-
-**I am currently looking for research positions in robotics.**
+I am a PhD student at [New York University (NYU)](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering) in the Electrical and Computer Engineering program. I am part of the [Control/Robotics Research Lab](https://crrl.poly.edu/) advised by [Prof. Farshad Khorrami](https://engineering.nyu.edu/faculty/farshad-khorrami). I hold an MS in Computer Science from the [University of Southern California (USC)](https://www.cs.usc.edu/). At USC, I worked at the [Dynamic Robotics and Research Lab](https://sites.usc.edu/quann/) advised by [Prof. Quan Nguyen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan). Before my time at USC, I worked as a Software Developer at Morgan Stanley. I graduated from the [Indian Institute of Technology (IIT) Guwahati](https://www.iitg.ac.in/) with a B.Tech in Engineering Physics and a minor in Computer Science and Engineering.
 
 * * *
 
@@ -8,7 +6,7 @@ I hold an MS in Computer Science from the [University of Southern California (US
 
 ### Preferenced Oracle Guided Multi-mode Policies for Dynamic Bipedal Loco-Manipulation
 **Prashanth Ravichandar\***, Lokesh Krishna\*, Nikhil Sobanbabu, Quan Nguyen<br>
-Under Review at **IROS 2025** | [<i class=".btn fab fa fa-globe icon-pad-right" aria-hidden="true"></i> Website](https://indweller.github.io/ogmplm/) | [<i class=".btn fab fa fa-file icon-pad-right" aria-hidden="true"></i> arXiv](https://arxiv.org/abs/2410.01030) | [<i class=".btn fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i> GitHub](https://github.com/DRCL-USC/ogmp_isaac)
+Accepted at **IROS 2025** | [<i class=".btn fab fa fa-globe icon-pad-right" aria-hidden="true"></i> Website](https://indweller.github.io/ogmplm/) | [<i class=".btn fab fa fa-file icon-pad-right" aria-hidden="true"></i> arXiv](https://arxiv.org/abs/2410.01030) | [<i class=".btn fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i> GitHub](https://github.com/DRCL-USC/ogmp_isaac)
 
 <div style="position: relative; width: 100%; padding-top: 56.25%; margin-bottom: 10px; overflow: hidden; border-radius: 10px;">
   <iframe 
