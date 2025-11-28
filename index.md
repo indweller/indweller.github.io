@@ -6,7 +6,7 @@ I am a PhD student at [New York University (NYU)](https://engineering.nyu.edu/ac
 
 ### Preferenced Oracle Guided Multi-mode Policies for Dynamic Bipedal Loco-Manipulation
 **Prashanth Ravichandar\***, Lokesh Krishna\*, Nikhil Sobanbabu, Quan Nguyen<br>
-**IROS 2025** | [<i class=".btn fab fa fa-globe icon-pad-right" aria-hidden="true"></i> Website](https://indweller.github.io/ogmplm/) | [<i class=".btn fab fa fa-file icon-pad-right" aria-hidden="true"></i> Paper](https://ieeexplore.ieee.org/document/11246602) | [<i class=".btn fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i> GitHub](https://github.com/DRCL-USC/ogmp_isaac)
+**IROS 2025** | [<i class=".btn fab fa fa-globe icon-pad-right" aria-hidden="true"></i> Website](https://indweller.github.io/ogmplm/) | [<i class=".btn ai ai-arxiv icon-pad-right" aria-hidden="true"></i> arXiv](https://arxiv.org/abs/2410.01030) | [<i class=".btn fab fa fa-file icon-pad-right" aria-hidden="true"></i> Paper](https://ieeexplore.ieee.org/document/11246602) | [<i class=".btn fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i> GitHub](https://github.com/DRCL-USC/ogmp_isaac)
 
 <div style="position: relative; width: 100%; padding-top: 56.25%; margin-bottom: 10px; overflow: hidden; border-radius: 10px;">
   <iframe 
